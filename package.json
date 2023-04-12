@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "name": "entregable1",
+  "version": "1.0.0",
+  "main": "ProductManager.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanRL/entregas-51215-jrodriguez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanRL/entregas-51215-jrodriguez/issues"
+  },
+  "homepage": "https://github.com/JohanRL/entregas-51215-jrodriguez#readme",
+  "description": ""
+}

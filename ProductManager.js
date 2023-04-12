@@ -114,3 +114,5 @@ productManager.getProducts()
 productManager.getProductById(1)
 productManager.updateProduct(2,'manzana', 'translation')
 productManager.deleteProduct(1)
+
+module.exports = ProductManager
